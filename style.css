@@ -1,0 +1,17 @@
+body{
+  font-weight: bold;
+}
+
+nav{
+   background-color: red; 
+   padding: 10px;
+  
+}
+a{
+  color: whitesmoke;
+  font-weight: bold;
+
+}
+.red{
+  color: red;
+}
